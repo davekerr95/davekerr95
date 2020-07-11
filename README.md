@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my Github! 👋
+
+I'm a Scala Software Engineer @ Workday interested in DevOps, CloudNative technologies and Security!
+
+#### Currently I'm focussed on learning topics in the following areas:
+- Kubernetes
+- Distributed Tracing
+- Container Networking
 
 <!--
 **davekerr95/davekerr95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
