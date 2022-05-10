@@ -1,8 +1,8 @@
 ### Welcome to my Github! 🐱‍👓
 
-🐱‍💻 **About Me:**
-
 ![twitter-follower](https://img.shields.io/twitter/follow/davekerr95?style=social)
+
+🐱‍💻 **About Me:**
 
 Hey there! 👋 
 Thanks for checking out my Github, Heres a little bit more about me!
