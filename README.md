@@ -22,6 +22,8 @@ Currently I'm focussed on topics in some of the following areas:
 
 #### Looking for any opportunities in CNCF Open Source projects! ⌨️
 
-You can find more of me here:
+💬 **Contact Me:**
+
+If you want to reach out or connect you can find more of me here:
 
 ![twitter-follower](https://img.shields.io/twitter/follow/davekerr95?style=social) 
