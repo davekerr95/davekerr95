@@ -10,7 +10,7 @@ Thanks for checking out my Github, Heres a little bit more about me!
 - 🐱‍👤 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}`
 - ☕ Coffee, Coffee, Coffee
 
-🐱‍🚀 **Learning:**
+🐱‍🚀 **Interest Areas:**
 
 Currently I'm focussed on topics in some of the following areas:
 
