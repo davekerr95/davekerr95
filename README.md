@@ -1,6 +1,7 @@
 ### Welcome to my Github! 🐱‍👓
 
 🐱‍💻 **About Me:**
+
 Hey there! My name is Dave, Heres a little about me!
 
 - 👨‍💻 Software Engineer - SRE @ Workday.
@@ -9,6 +10,7 @@ Hey there! My name is Dave, Heres a little about me!
 - ☕ Coffee, Coffee, Coffee
 
 🐱‍🚀 **Learning:**
+
 Currently I'm focussed on topics in some of the following areas:
 
 - Kubernetes
