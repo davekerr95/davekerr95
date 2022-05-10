@@ -2,6 +2,8 @@
 
 🐱‍💻 **About Me:**
 
+https://img.shields.io/twitter/follow/davekerr95?style=social
+
 Hey there! 👋 
 Thanks for checking out my Github, Heres a little bit more about me!
 
