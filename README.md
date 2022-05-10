@@ -1,13 +1,20 @@
-### Welcome to my Github! 👋
+### Welcome to my Github! 🐱‍👓
 
-Hey there! My name is Dave.
-I'm a Site Reliability Engineer 🔍 @ Workday on the Public Cloud Engineering team interested in CloudNative, Open Source and Security!
+🐱‍💻 **About Me:**
+Hey there! My name is Dave, Heres a little about me!
 
-#### Currently I'm focussed on topics in the following areas:
+- 👨‍💻 Software Engineer - SRE @ Workday.
+- ☁️ Conference Speaker in the CloudNative community.
+- 🐱‍👤 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}`
+- ☕ Coffee, Coffee, Coffee
+
+🐱‍🚀 **Learning:**
+Currently I'm focussed on topics in some of the following areas:
+
 - Kubernetes
-- Service Mesh
+- Security
 - Observability
+- Container Networking & Service Mesh
 - eBPF
-- Container Networking
 
-#### Looking for any opportunities in CNCF Open Source projects!
+#### Looking for any opportunities in CNCF Open Source projects! ⌨️
