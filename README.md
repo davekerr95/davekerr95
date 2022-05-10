@@ -31,3 +31,5 @@ Currently looking for any opportunities in CNCF Open Source projects! ⌨️
 If you want to reach out or connect you can find more of me here:
 
 ![twitter-follower](https://img.shields.io/twitter/follow/davekerr95?style=social) 
+
+***
