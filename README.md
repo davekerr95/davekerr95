@@ -3,9 +3,9 @@
 🐱‍💻 **About Me:**
 
 Hey there! 👋 
-Thanks for checking out my Github, Heres a little bit more about me!
+Thanks for checking out my Github, Here's a little bit more about me!
 
-- 👨‍💻 Software Engineer III - Public Cloud SRE @ Workday. (Kubernetes, Keptn, Golang, Observability etc.)
+- 👨‍💻 Software Engineer III - Public Cloud SRE @ Workday. (Kubernetes, GitOps, Golang, Observability etc.)
 - ☁️ Conference Speaker in the CloudNative community. (KubeCon + CloudNativeCon, AllDayDevOps)
 - 🐱‍👤 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}` 🇮🇪
 - ☕ Coffee, Coffee, Coffee
@@ -14,7 +14,7 @@ Thanks for checking out my Github, Heres a little bit more about me!
 
 🐱‍🚀 **Interest Areas:**
 
-Currently I'm focussed on topics in some of the following areas:
+Currently, I'm focused on topics in some of the following areas:
 
 - Kubernetes
 - Security
