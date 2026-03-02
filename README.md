@@ -1,18 +1,18 @@
-### Welcome to my Github! 🐱‍👓
+### Welcome to my Github!
 
-🐱‍💻 **About Me:**
+**About Me:**
 
 Hey there! 👋 
 Thanks for checking out my Github, Here's a little bit more about me!
 
 - 👨‍💻 Software Engineer III - Public Cloud SRE @ Workday. (Kubernetes, GitOps, Golang, Observability etc.)
 - ☁️ Conference Speaker in the CloudNative community. (KubeCon + CloudNativeCon, AllDayDevOps)
-- 🐱‍👤 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}` 🇮🇪
+- 🧪 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}` 🇮🇪
 - ☕ Coffee, Coffee, Coffee
 
 ***
 
-🐱‍🚀 **Interest Areas:**
+**Interest Areas:**
 
 Currently, I'm focused on topics in some of the following areas:
 
@@ -23,13 +23,3 @@ Currently, I'm focused on topics in some of the following areas:
 - eBPF
 
 Currently looking for any opportunities in CNCF Open Source projects! ⌨️
-
-***
-
-💬 **Contact Me:**
-
-If you want to reach out or connect you can find more of me here:
-
-![twitter-follower](https://img.shields.io/twitter/follow/davekerr95?style=social) 
-
-***
