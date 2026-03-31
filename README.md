@@ -6,7 +6,7 @@ Hey there! 👋
 
 Thanks for checking out my Github, Here's a little bit more about me!
 
-- 👨‍💻 Software Engineer III - Public Cloud SRE @ Workday. (Kubernetes, GitOps, Golang, Observability etc.)
+- 👨‍💻 Platform Engineer / Site Reliability Engineer
 - ☁️ Conference Speaker in the CloudNative community. (KubeCon + CloudNativeCon, AllDayDevOps)
 - 🧪 Capture the Flag (CTF) Enthusiast, Team `{The_NaN_Squad}` 🇮🇪
 - ☕ Coffee, Coffee, Coffee
